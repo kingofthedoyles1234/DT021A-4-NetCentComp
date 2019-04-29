@@ -1,0 +1,84 @@
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\C_Sharp_CLI_Calculator.exe.config
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\C_Sharp_CLI_Calculator.exe
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\C_Sharp_CLI_Calculator.pdb
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csprojAssemblyReference.cache
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.Form1.resources
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.Properties.Resources.resources
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csproj.GenerateResource.cache
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.exe
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.pdb
+E:\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\C_Sharp_CLI_Calculator.exe.config
+E:\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\C_Sharp_CLI_Calculator.exe
+E:\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\C_Sharp_CLI_Calculator.pdb
+E:\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csprojAssemblyReference.cache
+E:\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.Form1.resources
+E:\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.Properties.Resources.resources
+E:\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csproj.GenerateResource.cache
+E:\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csproj.CoreCompileInputs.cache
+E:\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.exe
+E:\College\DT021A(4)\Semester 2\Network Centric Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.pdb
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csprojAssemblyReference.cache
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.Form1.resources
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.Properties.Resources.resources
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csproj.GenerateResource.cache
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.exe
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.pdb
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\C_Sharp_CLI_Calculator.exe.config
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\C_Sharp_CLI_Calculator.exe
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\C_Sharp_CLI_Calculator.pdb
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\SquareClient.exe
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\Grpc.Core.dll
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\Square.dll
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\Grpc.Core.Api.dll
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\System.Interactive.Async.dll
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\Google.Protobuf.dll
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\SquareClient.pdb
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\Grpc.Core.pdb
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\Grpc.Core.xml
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\Square.pdb
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\Grpc.Core.Api.xml
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\System.Interactive.Async.xml
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\Google.Protobuf.pdb
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\bin\Debug\Google.Protobuf.xml
+C:\Users\colmd\OneDrive\Desktop\Formal Element_Attempt1\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csproj.CopyComplete
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\C_Sharp_CLI_Calculator.exe.config
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\C_Sharp_CLI_Calculator.exe
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\C_Sharp_CLI_Calculator.pdb
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\SquareClient.exe
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\Grpc.Core.dll
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\Square.dll
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\Grpc.Core.Api.dll
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\System.Interactive.Async.dll
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\Google.Protobuf.dll
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\SquareClient.pdb
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\Grpc.Core.pdb
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\Grpc.Core.xml
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\Square.pdb
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\Grpc.Core.Api.xml
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\System.Interactive.Async.xml
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\Google.Protobuf.pdb
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\bin\Debug\Google.Protobuf.xml
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csprojAssemblyReference.cache
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.Form1.resources
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.Properties.Resources.resources
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csproj.GenerateResource.cache
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.csproj.CopyComplete
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.exe
+C:\Users\colmd\OneDrive\Documents\College\DT021A(4)\Semester 2\NetCent Computing\Formal Element\C_Sharp_CLI_Calculator\obj\Debug\C_Sharp_CLI_Calculator.pdb
